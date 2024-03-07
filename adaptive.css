@@ -1,0 +1,8 @@
+/* 1200-1024 1024-992 992-768 768-576 400-350 */
+@media (max-width: 1024px) {
+  .post_box {
+    width: 360px;
+    padding: 20px;
+    background: red;
+  }
+}
